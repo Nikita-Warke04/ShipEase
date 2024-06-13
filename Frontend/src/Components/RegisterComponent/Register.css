@@ -1,0 +1,16 @@
+input[type=text] {
+    border: 2px solid rgb(162, 151, 151);
+    border-radius: 4px;
+  } 
+input[type=email] {
+    border: 2px solid rgb(162, 151, 151);
+    border-radius: 4px;
+}  
+input[type=password] {
+    border: 2px solid rgb(162, 151, 151);
+    border-radius: 4px;
+  } 
+input[type=name] {
+    border: 2px solid rgb(162, 151, 151);
+    border-radius: 4px;
+  } 
